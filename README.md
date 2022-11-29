@@ -1,6 +1,11 @@
 # second_flutter_app
 
-Statefull project
+Statefull project - Just for learning purpose
+
+![main](https://user-images.githubusercontent.com/52631071/204490809-96103239-c17c-4309-ae30-5dc369d1946a.PNG)
+
+
+![main+](https://user-images.githubusercontent.com/52631071/204490831-d8281535-128f-45dc-9a9d-af44094b5dd7.PNG)
 
 ## Getting Started
 
